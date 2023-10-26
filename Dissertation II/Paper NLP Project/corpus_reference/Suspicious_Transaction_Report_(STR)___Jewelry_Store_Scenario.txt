@@ -1,0 +1,4 @@
+1.	Profile of Customer/Entity Identification Number: QAZ96385 Tax Registration Number: T963851427 Date of Purchase: 05/22/20XX Customer Name: Lily Peach
+2.	Transaction Description Ms. Peach made multiple purchases of high-end jewelry over a short period.
+3.	Suspicious Transaction Despite buying items of high value, she frequently changed her contact information and declined offers for secure delivery, opting instead for in-store pickups.
+4.	Basis of Suspicion Continuous high-value transactions combined with an effort to obscure identity or contact details can suggest potential money laundering.

@@ -1,0 +1,4 @@
+1.	Profile of Customer Customer: Digital Wave Agency Business Registration Number: BCR712 Tax Registration Number: T71264 Date of Account Opening: 2017-10-08 Account Number: ACCT71295 Directors: Patricia Pixel, Ronald Render Beneficial Owner: Larry Layout (60%)
+2.	Transaction and Activity Description Transaction Date: 2023-07-01 Transaction Amount: $800,000 Transaction Type: Payment for Online Ad Campaign Activity: Repeated returns of the advertising funds citing campaign cancellation. Dates of Activity: 2023-07-02 to 2023-08-05
+3.	Suspicious Transaction and Activity Digital Wave Agency received substantial funds for an advertising campaign. However, the funds were returned several times, citing campaign cancellations.
+4.	Basis of Suspicion Receiving and then returning funds on the pretext of service cancellation can be a method to provide a false layer of transaction legitimacy.

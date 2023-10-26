@@ -1,0 +1,4 @@
+1.	Profile of Customer Customer: National Infrastructure Commission Business Registration Number: BCR901 Tax Registration Number: T90123 Date of Account Opening: 2017-11-05 Account Number: ACCT90134 Directors: Richard Road, Laura Lane Beneficial Owner: Public Entity (100%)
+2.	Transaction and Activity Description Transaction Date: 2023-06-05 Transaction Amount: $5,000,000 Transaction Type: Payment for Road Construction Activity: Multiple transfers to a private company owned by a relative of a director. Dates of Activity: 2023-06-07 to 2023-07-15
+3.	Suspicious Transaction and Activity National Infrastructure Commission transferred large sums to Premier Paving Corp, which investigation reveals is owned by a cousin of Director Richard Road.
+4.	Basis of Suspicion A significant transfer to a private company connected to a director suggests potential embezzlement of public funds.

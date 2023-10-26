@@ -1,0 +1,4 @@
+1.	Profile of Customer/Entity Identification Number: JKL45678 Tax Registration Number: T456789012 Date of Account Opening: 07/28/20XX Account Number: 67890123 Account Signatories: George Rain, Lila Snow
+2.	Transaction Description Frequent interbank transfers were made to various accounts in different banks within a week, totaling $150,000.
+3.	Suspicious Transaction The account was primarily used for receiving a monthly salary and occasional online purchases. The sudden flurry of interbank transfers is anomalous.
+4.	Basis of Suspicion Frequent transfers among various banks in a short duration hint at possible layering activity, intended to obscure the origins of funds and complicate the audit trail. The customer's known financial activities don't justify such transactions.

@@ -1,0 +1,4 @@
+1.	Profile of Customer Customer: Elegant Mansions Realty Business Registration Number: BCR892 Tax Registration Number: T98172 Date of Account Opening: 2021-03-20 Account Number: ACCT85691 Directors: Philip Blue, Caroline White Beneficial Owner: Harold Green (60%)
+2.	Transaction and Activity Description Transaction Date: 2023-04-20 Transaction Amount: $5,000,000 Transaction Type: Purchase of Coastal Property Activity: Repeated property acquisitions and swift sales without significant value changes. Dates of Activity: 2023-04-25 to 2023-07-15
+3.	Suspicious Transaction and Activity Elegant Mansions Realty conducted a substantial purchase of a coastal property, followed by a series of quick property turnovers without apparent profit or loss.
+4.	Basis of Suspicion Rapid property turnover, especially without significant value adjustment, suggests potential property flipping to launder money.

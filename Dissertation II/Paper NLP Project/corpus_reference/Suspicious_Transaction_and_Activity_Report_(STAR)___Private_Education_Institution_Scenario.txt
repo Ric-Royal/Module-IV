@@ -1,0 +1,4 @@
+1.	Profile of Customer Customer: Elite Minds Academy Business Registration Number: BCR917 Tax Registration Number: T91724 Date of Account Opening: 2021-01-04 Account Number: ACCT91756 Directors: Diana Brainy, Mark Genius Beneficial Owner: Victor Scholar (65%)
+2.	Transaction and Activity Description Transaction Date: 2023-08-20 Transaction Amount: $3,500,000 Transaction Type: Incoming Donation for Infrastructure Development Activity: Withdrawal of significant funds without corresponding development activity. Dates of Activity: 2023-08-21 to 2023-09-10
+3.	Suspicious Transaction and Activity Elite Minds Academy received a sizable donation designated for infrastructure, yet significant sums were withdrawn without any visible development.
+4.	Basis of Suspicion Receiving large donations for specific purposes, followed by withdrawals without corresponding use, can suggest potential misuse of funds or attempts to obscure money movements.

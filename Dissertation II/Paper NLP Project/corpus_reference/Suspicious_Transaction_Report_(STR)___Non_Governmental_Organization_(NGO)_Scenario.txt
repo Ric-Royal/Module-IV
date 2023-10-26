@@ -1,0 +1,4 @@
+1.	Profile of Customer/Entity Identification Number: BNM72159 Tax Registration Number: T721593604 Date of Donation: 10/05/20XX NGO Name: "Save The World Foundation"
+2.	Transaction Description A donation of KES 150,000,000 was made to the foundation.
+3.	Suspicious Transaction The donation was made anonymously with a request to fund specific projects that have minimal on-ground visibility.
+4.	Basis of Suspicion Large anonymous donations directed towards low-visibility projects may be indicative of attempts to misuse NGO platforms for laundering money.

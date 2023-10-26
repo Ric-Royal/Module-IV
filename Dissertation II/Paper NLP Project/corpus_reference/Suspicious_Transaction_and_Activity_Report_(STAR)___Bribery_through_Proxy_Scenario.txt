@@ -1,0 +1,4 @@
+1.	Profile of Customer Customer: Francis Oduor Occupation: City Health Inspector Date of Account Opening: 2019-03-05 Account Number: ACCT60542
+2.	Transaction and Activity Description Transaction Date: 2023-09-05 Transaction Amount: $80,000 Transaction Type: Incoming Transfer Activity: Funds received from an offshore entity, later linked to Global Pharma Co., after approving a controversial drug for city hospitals. Dates of Activity: 2023-09-04 to 2023-09-06
+3.	Suspicious Transaction and Activity Francis Oduor received a payment from an offshore company, which upon deeper analysis, is found to be funded by Global Pharma Co.
+4.	Basis of Suspicion Receipt of funds indirectly from a company benefiting from the health inspector's decision suggests bribery through a proxy.

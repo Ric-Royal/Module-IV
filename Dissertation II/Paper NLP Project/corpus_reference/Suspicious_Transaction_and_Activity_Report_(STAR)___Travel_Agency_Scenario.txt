@@ -1,0 +1,4 @@
+1.	Profile of Customer Customer: Global Ventures Travel Business Registration Number: BCR732 Tax Registration Number: T73821 Date of Account Opening: 2018-10-08 Account Number: ACCT73298 Directors: Monica Sky, Jake Horizon Beneficial Owner: Oliver Cloud (80%)
+2.	Transaction and Activity Description Transaction Date: 2023-07-01 Transaction Amount: $500,000 Transaction Type: Incoming Payment from Overseas Tour Operator Activity: Multiple bookings for high-end travel packages paid in cash. Dates of Activity: 2023-07-02 to 2023-08-15
+3.	Suspicious Transaction and Activity Global Ventures Travel received a significant payment from an overseas tour operator. This was followed by multiple cash bookings for luxury travel.
+4.	Basis of Suspicion Large payments from overseas, coupled with high-value cash transactions, can suggest potential structuring or layering to introduce illicit funds into the formal economy.

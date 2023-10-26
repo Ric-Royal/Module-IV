@@ -1,0 +1,4 @@
+1.	Profile of Customer/Entity Identification Number: VBN63258 Tax Registration Number: T632581904 Date of Purchase: 04/05/20XX Customer Name: Jacob Lavender
+2.	Transaction Description Mr. Lavender purchased two luxury vehicles, both in cash.
+3.	Suspicious Transaction The customer displayed a lack of interest in vehicle details and was more concerned about immediate transfer and paperwork completion.
+4.	Basis of Suspicion Large cash purchases of luxury goods without due diligence on the product may indicate an attempt to convert illicit funds into tangible assets quickly.

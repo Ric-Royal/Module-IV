@@ -1,0 +1,4 @@
+1.	Profile of Customer Customer: Serene Health Clinic Business Registration Number: BCR519 Tax Registration Number: T51942 Date of Account Opening: 2018-06-06 Account Number: ACCT51978 Directors: Dr. Allen Heart, Dr. Emily Pulse Beneficial Owner: Dr. Ivan Vein (90%)
+2.	Transaction and Activity Description Transaction Date: 2023-04-02 Transaction Amount: $2,500,000 Transaction Type: Incoming Donation for Medical Equipment Activity: Several outgoing transfers to offshore entities. Dates of Activity: 2023-04-03 to 2023-05-10
+3.	Suspicious Transaction and Activity Serene Health Clinic received a substantial donation for medical equipment but then made several transfers to offshore accounts.
+4.	Basis of Suspicion Receiving funds for a specific purpose followed by unrelated transfers may suggest potential diversion or layering activities.

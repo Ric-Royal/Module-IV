@@ -1,0 +1,4 @@
+1.	Profile of Customer/Entity Identification Number: WER15926 Tax Registration Number: T159263478 Date of Property Inquiry: 05/20/20XX Customer Name: Alex Green
+2.	Transaction Description Mr. Green expressed interest in purchasing three high-end properties, totaling KES 200,000,000 on 05/22/20XX.
+3.	Suspicious Transaction The client insisted on making the payment in cash and was averse to the idea of any documentation or background checks.
+4.	Basis of Suspicion The desire to make large cash payments and avoid due diligence measures for high-value property purchases is a classic red flag for potential money laundering activities.

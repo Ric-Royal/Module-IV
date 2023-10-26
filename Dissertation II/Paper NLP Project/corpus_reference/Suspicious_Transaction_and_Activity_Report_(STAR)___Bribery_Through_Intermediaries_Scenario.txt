@@ -1,0 +1,4 @@
+1.	Profile of Customer Customer: Allison Green Occupation: Urban Development Official Date of Account Opening: 2017-07-10 Account Number: ACCT30421
+2.	Transaction and Activity Description Transaction Date: 2023-06-12 Transaction Amount: $250,000 Transaction Type: Incoming Transfer Activity: Received funds from Prime Realty Group, a company seeking zoning approvals. Dates of Activity: 2023-06-12 to 2023-06-14
+3.	Suspicious Transaction and Activity Allison Green received a significant amount from Prime Realty Group shortly after they were granted zoning permissions for a high-rise project.
+4.	Basis of Suspicion The receipt of funds from a company directly benefiting from an official's decision implies potential bribery through intermediaries.

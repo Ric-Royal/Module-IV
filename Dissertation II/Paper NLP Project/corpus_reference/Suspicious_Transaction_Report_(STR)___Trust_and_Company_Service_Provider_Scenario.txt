@@ -1,0 +1,4 @@
+1.	Profile of Customer/Entity Identification Number: UIO35749 Tax Registration Number: T357498126 Date of Service Engagement: 12/01/20XX Client Name: Donna Indigo
+2.	Transaction Description Ms. Indigo sought the creation of multiple trusts with dispersed international beneficiaries.
+3.	Suspicious Transaction She was adamant about maintaining the confidentiality of beneficiaries and was not forthcoming about the source of funds.
+4.	Basis of Suspicion The creation of trusts with hidden beneficiaries and unclear funding sources can be indicative of attempts to obfuscate ownership and control of assets, potentially for illicit purposes.

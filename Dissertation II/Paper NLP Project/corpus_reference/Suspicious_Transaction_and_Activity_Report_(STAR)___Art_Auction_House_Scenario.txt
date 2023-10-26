@@ -1,0 +1,4 @@
+1.	Profile of Customer Customer: Renaissance Arts Auctioneers Business Registration Number: BCR421 Tax Registration Number: T42130 Date of Account Opening: 2021-02-20 Account Number: ACCT42156 Directors: Clara Canvas, Victor Brush Beneficial Owner: Paula Palette (85%)
+2.	Transaction and Activity Description Transaction Date: 2023-03-10 Transaction Amount: $3,000,000 Transaction Type: Sale of a Rare Painting Activity: Immediate purchase of multiple lesser-known artworks. Dates of Activity: 2023-03-12 to 2023-04-01
+3.	Suspicious Transaction and Activity Renaissance Arts Auctioneers sold a high-value painting, quickly followed by the purchase of numerous lower-profile artworks.
+4.	Basis of Suspicion Liquidating high-value items to acquire numerous lower-value items may suggest an attempt to distribute and obscure large funds.

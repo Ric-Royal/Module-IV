@@ -1,0 +1,4 @@
+1.	Profile of Customer Customer: Precious Stones Ltd Business Registration Number: BCR903 Tax Registration Number: T10983 Date of Account Opening: 2019-11-05 Account Number: ACCT90321 Directors: Julia Ruby, Samuel Onyx Beneficial Owner: Diane Amber (90%)
+2.	Transaction and Activity Description Transaction Date: 2023-06-10 Transaction Amount: $2,000,000 Transaction Type: Outgoing Payment for Uncut Diamonds Activity: Frequent incoming payments from private individuals. Dates of Activity: 2023-06-15 to 2023-07-10
+3.	Suspicious Transaction and Activity Precious Stones Ltd made a significant payment for uncut diamonds. Following this, there were regular large payments from private entities.
+4.	Basis of Suspicion The large payment for uncut diamonds, combined with subsequent high-value receipts from individuals, could indicate potential trade-based money laundering using gemstones.

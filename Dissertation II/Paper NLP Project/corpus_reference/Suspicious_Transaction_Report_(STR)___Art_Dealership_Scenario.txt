@@ -1,0 +1,4 @@
+1.	Profile of Customer/Entity Identification Number: QWE96320 Tax Registration Number: T963204185 Date of Purchase: 11/15/20XX Customer Name: Alice Orange
+2.	Transaction Description Ms. Orange purchased a piece of art for KES 200,000,000.
+3.	Suspicious Transaction She expressed little interest in the artwork's authenticity, history, or value, and insisted on quick transaction processing.
+4.	Basis of Suspicion Buying expensive art without genuine interest might indicate an attempt to use the art market for moving or storing illicit funds.

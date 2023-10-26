@@ -1,0 +1,4 @@
+1.	Profile of Customer/Entity Identification Number: ZXC47823 Tax Registration Number: T478236715 Date of Account Opening: 03/20/20XX Account Holders: Mary Maroon, Paul Pink
+2.	Transaction Description Frequent deposits and rapid withdrawals, both just under the reportable threshold, were observed over a month.
+3.	Suspicious Transaction The account seems to be engaged in "structuring" or "smurfing" with multiple transactions designed to avoid regulatory reporting.
+4.	Basis of Suspicion Continuous transactions just below the reportable threshold often indicate an attempt to evade detection while laundering large sums.

@@ -1,0 +1,4 @@
+1.	Profile of Customer/Entity Identification Number: ZXC83745 Tax Registration Number: T837456012 Date of Transaction: 07/10/20XX Customer Name: Roger Red
+2.	Transaction Description Mr. Red purchased gold bars worth KES 100,000,000 on 07/11/20XX.
+3.	Suspicious Transaction The purchase was made in cash, and the client was hesitant to provide any identification or have any records of the transaction.
+4.	Basis of Suspicion Large anonymous cash purchases, especially in commodities like gold, can be indicative of efforts to convert illicit cash into a form that can be easily stored or moved without detection.

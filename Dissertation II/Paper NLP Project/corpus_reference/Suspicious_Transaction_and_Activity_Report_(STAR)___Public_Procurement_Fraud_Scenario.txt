@@ -1,0 +1,4 @@
+1.	Profile of Customer Customer: Modern Tech Solutions Business Registration Number: BCR103 Tax Registration Number: T10345 Date of Account Opening: 2022-05-10 Account Number: ACCT10356 Directors: Peter Pixel, Grace Gigabyte Beneficial Owner: Thomas Tech (70%)
+2.	Transaction and Activity Description Transaction Date: 2023-07-15 Transaction Amount: $3,500,000 Transaction Type: Payment for Supply of IT Equipment to a Government Department Activity: Immediate transfers to Delta Consulting, a firm where a key government procurement officer acts as a silent partner. Dates of Activity: 2023-07-16 to 2023-07-20
+3.	Suspicious Transaction and Activity Modern Tech Solutions, after securing a large procurement deal, made several transfers to Delta Consulting, a company indirectly connected to the procurement officer who approved the deal.
+4.	Basis of Suspicion The connection between a public procurement officer and a beneficiary company suggests potential procurement fraud.

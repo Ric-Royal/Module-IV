@@ -1,0 +1,4 @@
+1.	Profile of Customer/Entity Identification Number: WSX41789 Date of Transactions: 06/10/20XX Sender Name: Oscar Taupe
+2.	Transaction Description Mr. Taupe sent multiple international transfers to different recipients within a short time frame.
+3.	Suspicious Transaction All transactions were of similar amounts, just below the reportable threshold, and were directed to countries with lax AML regulations.
+4.	Basis of Suspicion Structuring transfers to avoid reporting, especially to high-risk jurisdictions, may be indicative of layering attempts in a money laundering scheme.

@@ -1,0 +1,4 @@
+1.	Profile of Customer Customer: Eastland Health Commission Business Registration Number: BCR204 Tax Registration Number: T20476 Date of Account Opening: 2018-03-03 Account Number: ACCT20487 Directors: Maria Gate, Samuel North Beneficial Owner: Public Entity (100%)
+2.	Transaction and Activity Description Transaction Date: 2023-09-15 Transaction Amount: $7,500,000 Transaction Type: Payment for Medical Equipment Activity: Significant transfers to HealthTech Enterprises, indirectly owned by a close friend of Maria Gate. Dates of Activity: 2023-09-17 to 2023-10-10
+3.	Suspicious Transaction and Activity Eastland Health Commission initiated significant payments to HealthTech Enterprises. Investigations show that the company is indirectly owned by Robert Gate, a childhood friend of Director Maria Gate.
+4.	Basis of Suspicion Transferring public funds to an entity indirectly connected to a director's close friend raises suspicions of embezzlement through a proxy.

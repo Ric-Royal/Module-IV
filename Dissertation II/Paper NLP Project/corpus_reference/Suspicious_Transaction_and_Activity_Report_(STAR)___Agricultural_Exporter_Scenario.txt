@@ -1,0 +1,4 @@
+1.	Profile of Customer Customer: Green Fields Exports Business Registration Number: BCR610 Tax Registration Number: T61053 Date of Account Opening: 2019-03-12 Account Number: ACCT61090 Directors: Larry Grain, Sarah Seed Beneficial Owner: Terry Terracotta (70%)
+2.	Transaction and Activity Description Transaction Date: 2023-06-20 Transaction Amount: $1,200,000 Transaction Type: Payment for Pesticides Activity: Receipt of large payments from non-agricultural sectors. Dates of Activity: 2023-06-22 to 2023-07-15
+3.	Suspicious Transaction and Activity Green Fields Exports made a significant payment for pesticides. Subsequently, they received payments from companies unrelated to agriculture.
+4.	Basis of Suspicion Receiving funds from unrelated sectors after a large outgoing payment raises questions about the authenticity of the transactions.

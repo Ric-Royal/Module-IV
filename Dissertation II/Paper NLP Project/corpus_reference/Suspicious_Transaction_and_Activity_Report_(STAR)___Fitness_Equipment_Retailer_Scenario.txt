@@ -1,0 +1,4 @@
+1.	Profile of Customer Customer: FitFlex Equip Store Business Registration Number: BCR815 Tax Registration Number: T81576 Date of Account Opening: 2020-08-14 Account Number: ACCT81502 Directors: Carla Cardio, Steve Strength Beneficial Owner: Barry Balance (50%)
+2.	Transaction and Activity Description Transaction Date: 2023-09-12 Transaction Amount: $600,000 Transaction Type: Sale of Gym Equipment Activity: Immediate repurchase of similar equipment from a different supplier at a higher price. Dates of Activity: 2023-09-13 to 2023-09-20
+3.	Suspicious Transaction and Activity FitFlex Equip Store sold a significant amount of gym equipment and then repurchased similar equipment from a different source at an elevated price.
+4.	Basis of Suspicion Rapid sales followed by repurchases, especially at non-profitable rates, can suggest a scheme to justify movement or laundering of funds.

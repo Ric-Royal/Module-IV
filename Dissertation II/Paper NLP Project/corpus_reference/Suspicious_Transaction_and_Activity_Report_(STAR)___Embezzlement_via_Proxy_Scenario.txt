@@ -1,0 +1,4 @@
+1.	Profile of Customer Customer: Henry Kiptanui Occupation: National Education Fund Manager Date of Account Opening: 2015-10-02 Account Number: ACCT70421
+2.	Transaction and Activity Description Transaction Date: 2023-09-01 Transaction Amount: $2,000,000 Transaction Type: Transfer to Genesis Education Trust Activity: Subsequent funds from the trust are transferred to a business owned by Henry's wife. Dates of Activity: 2023-09-03 to 2023-09-10
+3.	Suspicious Transaction and Activity Henry Kiptanui sent a significant amount to Genesis Education Trust. Soon after, a portion of the money was sent to Vibrant Ventures, owned by Henry's spouse.
+4.	Basis of Suspicion Movement of public funds to a trust and then to a private business connected to the fund manager suggests embezzlement via a proxy.

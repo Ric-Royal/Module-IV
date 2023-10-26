@@ -1,0 +1,4 @@
+1.	Profile of Customer Customer: Jacob Thompson Occupation: Senior Municipal Licensing Officer Date of Account Opening: 2019-01-01 Account Number: ACCT50231
+2.	Transaction and Activity Description Transaction Date: 2023-08-10 Transaction Amount: $100,000 Transaction Type: Incoming Transfer Activity: Received funds from MegaConstructions Ltd shortly after granting them a city building permit. Dates of Activity: 2023-08-09 to 2023-08-11
+3.	Suspicious Transaction and Activity Jacob Thompson received a significant transfer from MegaConstructions Ltd immediately after he facilitated their building permit.
+4.	Basis of Suspicion The timing and nature of the payment in close proximity to a permit grant point towards potential bribery.

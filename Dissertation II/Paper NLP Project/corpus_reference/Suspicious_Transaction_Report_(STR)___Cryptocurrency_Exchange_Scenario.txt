@@ -1,0 +1,4 @@
+1.	Profile of Customer/Entity Identification Number: ASL74012 Date of Transaction: 12/20/20XX User Name: DarkKnight72
+2.	Transaction Description DarkKnight72 exchanged cryptocurrencies equivalent to KES 300,000,000 into Kenyan Shillings.
+3.	Suspicious Transaction The user's transaction history shows rapid and high-volume exchanges between multiple types of cryptocurrencies before converting to fiat currency.
+4.	Basis of Suspicion Rapid trading between cryptocurrencies and then conversion into fiat might suggest an attempt at layering to complicate the audit trail and obscure the origin of funds.

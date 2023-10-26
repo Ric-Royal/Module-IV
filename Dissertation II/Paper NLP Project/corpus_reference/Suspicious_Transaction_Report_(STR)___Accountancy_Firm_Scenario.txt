@@ -1,0 +1,4 @@
+1.	Profile of Customer/Entity Identification Number: GHJ24806 Tax Registration Number: T248060725 Date of Consultation: 06/25/20XX Client Name: Sandra Violet
+2.	Transaction Description Ms. Violet sought assistance in moving large sums of money between multiple offshore accounts on 06/27/20XX.
+3.	Suspicious Transaction She exhibited a lack of clarity about the source of the funds and was keen on ensuring minimal record-keeping.
+4.	Basis of Suspicion Moving large amounts between offshore accounts with minimal documentation is a potential sign of efforts to obscure the origin and destination of money, characteristic of layering in money laundering.

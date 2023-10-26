@@ -1,0 +1,4 @@
+1.	Profile of Customer Customer: Ocean Dreams Yachts Business Registration Number: BCR825 Tax Registration Number: T82516 Date of Account Opening: 2020-12-14 Account Number: ACCT82541 Directors: Marina Waves, Leo Shore Beneficial Owner: Tina Tide (70%)
+2.	Transaction and Activity Description Transaction Date: 2023-05-28 Transaction Amount: $4,000,000 Transaction Type: Purchase of a Luxury Yacht Activity: Quick resale of the same yacht at a lower price. Dates of Activity: 2023-05-30 to 2023-06-05
+3.	Suspicious Transaction and Activity Ocean Dreams Yachts conducted a luxury yacht purchase and then rapidly sold it at a notably reduced price.
+4.	Basis of Suspicion Quick turnovers of high-value assets like luxury yachts, especially at a loss, can indicate attempts to launder funds by moving assets.

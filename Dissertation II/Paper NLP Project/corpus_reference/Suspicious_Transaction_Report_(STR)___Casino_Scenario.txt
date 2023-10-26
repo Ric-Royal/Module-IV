@@ -1,0 +1,4 @@
+1.	Profile of Customer/Entity Identification Number: IOP62319 Date of Casino Visit: 08/02/20XX Customer Name: Brian Teal
+2.	Transaction Description Mr. Teal purchased casino chips worth KES 50,000,000 on 08/03/20XX.
+3.	Suspicious Transaction After a short time of minimal betting, he cashed out the majority of the chips and requested a casino-issued cheque.
+4.	Basis of Suspicion The pattern of buying a large number of chips and cashing them out without substantial play is suggestive of a money laundering technique known as "chip dumping."
